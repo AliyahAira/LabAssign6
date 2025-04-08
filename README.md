@@ -9,4 +9,4 @@ Your solution should not violate other SOLID principles.
 
 
 # UML Class Diagram
-![Blank diagram (7)](https://github.com/user-attachments/assets/0fb204a9-1c05-4964-b0ea-5632852f4586)
+![Blank diagram (8)](https://github.com/user-attachments/assets/420b0bde-5621-4c19-9ec6-61a1a1bc6389)
